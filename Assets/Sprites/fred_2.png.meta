@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 1a8342828483ab94b9c5f5a4a81a3fda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6890177547624524999
+    second: fred_2_0
+  - first:
+      213: 5136039150159565409
+    second: fred_2_1
+  - first:
+      213: -5580587603512702628
+    second: fred_2_2
+  - first:
+      213: 7962377308051242439
+    second: fred_2_3
+  - first:
+      213: 9179822446512163914
+    second: fred_2_4
+  - first:
+      213: 5567531550007631750
+    second: fred_2_5
+  - first:
+      213: -5961017623272172326
+    second: fred_2_6
+  - first:
+      213: -8963980078336302864
+    second: fred_2_7
+  - first:
+      213: -4475825302596667536
+    second: fred_2_8
+  - first:
+      213: -4137996390215063906
+    second: fred_2_9
+  - first:
+      213: -1640338581609163908
+    second: fred_2_10
+  - first:
+      213: 6480524567598639704
+    second: fred_2_11
+  - first:
+      213: -8702796936208183352
+    second: fred_2_12
+  - first:
+      213: -5326230135159672655
+    second: fred_2_13
+  - first:
+      213: -1199044168311784869
+    second: fred_2_14
+  - first:
+      213: 8201101698883746333
+    second: fred_2_15
+  - first:
+      213: -5061585067310438240
+    second: fred_2_16
+  - first:
+      213: 2638700429366610657
+    second: fred_2_17
+  - first:
+      213: -4086720199538546305
+    second: fred_2_18
+  - first:
+      213: 544351239450363633
+    second: fred_2_19
+  - first:
+      213: 4752059793927940249
+    second: fred_2_20
+  - first:
+      213: 5509601801667040286
+    second: fred_2_21
+  - first:
+      213: 2110866757456223899
+    second: fred_2_22
+  - first:
+      213: -4534783427895258672
+    second: fred_2_23
+  - first:
+      213: 8370652521342523200
+    second: fred_2_24
+  - first:
+      213: -4699796510377333330
+    second: fred_2_25
+  - first:
+      213: -7709587225351853708
+    second: fred_2_26
+  - first:
+      213: 7680394112451145997
+    second: fred_2_27
+  - first:
+      213: -2646719305740668193
+    second: fred_2_28
+  - first:
+      213: -8770910628438225601
+    second: fred_2_29
+  - first:
+      213: -7980979144971176094
+    second: fred_2_30
+  - first:
+      213: 534217519119982612
+    second: fred_2_31
+  - first:
+      213: 8033801516174454177
+    second: fred_2_32
+  - first:
+      213: 3079831542135078296
+    second: fred_2_33
+  - first:
+      213: -7365776587702940878
+    second: fred_2_34
+  - first:
+      213: 7890422954075088330
+    second: fred_2_35
+  - first:
+      213: -5910847703838662461
+    second: fred_2_36
+  - first:
+      213: 5851920830132848685
+    second: fred_2_37
+  - first:
+      213: -3465042537762156485
+    second: fred_2_38
+  - first:
+      213: 7799604851114088069
+    second: fred_2_39
+  - first:
+      213: -6109046721967786641
+    second: fred_2_40
+  - first:
+      213: 7623850849937875205
+    second: fred_2_41
+  - first:
+      213: 2589291238249899377
+    second: fred_2_42
+  - first:
+      213: 2619450981982238802
+    second: fred_2_43
+  - first:
+      213: 5967901396911442216
+    second: fred_2_44
+  - first:
+      213: -7239267541413341368
+    second: fred_2_45
+  - first:
+      213: 9050306631471465425
+    second: fred_2_46
+  - first:
+      213: -2487622272511582844
+    second: fred_2_47
+  - first:
+      213: -6345874010080242760
+    second: fred_2_48
+  - first:
+      213: -7827106961938933531
+    second: fred_2_49
+  - first:
+      213: 6777753258968327660
+    second: fred_2_50
+  - first:
+      213: -3849613060307740474
+    second: fred_2_51
+  - first:
+      213: 6558040780371347571
+    second: fred_2_52
+  - first:
+      213: -4236868990050941229
+    second: fred_2_53
+  - first:
+      213: 5385291411488471812
+    second: fred_2_54
+  - first:
+      213: 6396699133721617415
+    second: fred_2_55
+  - first:
+      213: -4683404528173751451
+    second: fred_2_56
+  - first:
+      213: 5487823972955638324
+    second: fred_2_57
+  - first:
+      213: 10916143119787019
+    second: fred_2_58
+  - first:
+      213: -8837750555327845770
+    second: fred_2_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fred_2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc288d49f3de9f50800000000000000
+      internalID: 6890177547624524999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 336
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16292c92560e64740800000000000000
+      internalID: 5136039150159565409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594dae4425cd82b0800000000000000
+      internalID: -5580587603512702628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7606a9fb008e60800000000000000
+      internalID: 7962377308051242439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc389d0e7456f70800000000000000
+      internalID: 9179822446512163914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1cf95278d34d40800000000000000
+      internalID: 5567531550007631750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 358
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d401fd06364da0800000000000000
+      internalID: -5961017623272172326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f02619ac9b899380800000000000000
+      internalID: -8963980078336302864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 358
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077350ae99ca2e1c0800000000000000
+      internalID: -4475825302596667536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e1670532e296c0800000000000000
+      internalID: -4137996390215063906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7351db30c85c39e0800000000000000
+      internalID: -1640338581609163908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa8e942c27fe950800000000000000
+      internalID: 6480524567598639704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 275
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf04f0cb44793780800000000000000
+      internalID: -8702796936208183352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b3d169ed6516b0800000000000000
+      internalID: -5326230135159672655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab5c58ea32c5fe0800000000000000
+      internalID: -1199044168311784869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a71d83b8a20d170800000000000000
+      internalID: 8201101698883746333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82a8ed233a1c9b0800000000000000
+      internalID: -5061585067310438240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 275
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea41116f0c8e9420800000000000000
+      internalID: 2638700429366610657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79671281ad0947c0800000000000000
+      internalID: -4086720199538546305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 275
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68b74719ced8700800000000000000
+      internalID: 544351239450363633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 214
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ad708435b2f140800000000000000
+      internalID: 4752059793927940249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145732c5a9067c40800000000000000
+      internalID: 5509601801667040286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 214
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9edb5ec12e4b4d10800000000000000
+      internalID: 2110866757456223899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d199f6af763111c0800000000000000
+      internalID: -4534783427895258672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 214
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04759d85e188a2470800000000000000
+      internalID: 8370652521342523200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada65279f7f6ceb0800000000000000
+      internalID: -4699796510377333330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796304044b020590800000000000000
+      internalID: -7709587225351853708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 214
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f6a7b0cd369a60800000000000000
+      internalID: 7680394112451145997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b82970d6f44bd0800000000000000
+      internalID: -2646719305740668193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dcd33f047774680800000000000000
+      internalID: -8770910628438225601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673130b0cddd3190800000000000000
+      internalID: -7980979144971176094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410efe3d00ce96700800000000000000
+      internalID: 534217519119982612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada29ff9ebcd7f60800000000000000
+      internalID: 8033801516174454177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d310d4872cdba20800000000000000
+      internalID: 3079831542135078296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc313183187c990800000000000000
+      internalID: -7365776587702940878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5eb391fd9608d60800000000000000
+      internalID: 7890422954075088330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_36
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06343945378fda0800000000000000
+      internalID: -5910847703838662461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_37
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2807cd7df2363150800000000000000
+      internalID: 5851920830132848685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 174
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309115ab22b9efc0800000000000000
+      internalID: -3465042537762156485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 153
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586911bb943cd3c60800000000000000
+      internalID: 7799604851114088069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 92
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6578dc9f5e483ba0800000000000000
+      internalID: -6109046721967786641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 92
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5016b1384fb5dc960800000000000000
+      internalID: 7623850849937875205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 92
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175aaeb99a20fe320800000000000000
+      internalID: 2589291238249899377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25879972ac82a5420800000000000000
+      internalID: 2619450981982238802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c67183be32d250800000000000000
+      internalID: 5967901396911442216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847da00c684f88b90800000000000000
+      internalID: -7239267541413341368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 91
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d308354ee5299d70800000000000000
+      internalID: 9050306631471465425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 91
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd89f19b03a7dd0800000000000000
+      internalID: -2487622272511582844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 113
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b398cfa53deee7a0800000000000000
+      internalID: -6345874010080242760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e894aa10b7806390800000000000000
+      internalID: -7827106961938933531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ad00ddaa6f0e50800000000000000
+      internalID: 6777753258968327660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c817a9515d639ac0800000000000000
+      internalID: -3849613060307740474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784f800857d20b50800000000000000
+      internalID: 6558040780371347571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d64528f91e9335c0800000000000000
+      internalID: -4236868990050941229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b7bb991066cba40800000000000000
+      internalID: 5385291411488471812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a68098f3a5c850800000000000000
+      internalID: 6396699133721617415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_56
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636fb63564310fb0800000000000000
+      internalID: -4683404528173751451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac4e1e3daa82c40800000000000000
+      internalID: 5487823972955638324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_58
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 52
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04e8f0ac28c62000800000000000000
+      internalID: 10916143119787019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fred_2_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2c20c1b00a5580800000000000000
+      internalID: -8837750555327845770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 85eebdc76d39453479071bd04aae4582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5826736791134930766
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_0
+  - first:
+      213: -2089920581124459886
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_1
+  - first:
+      213: -8275668787363398719
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_2
+  - first:
+      213: -3753077840576603097
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_3
+  - first:
+      213: -6329839370479807410
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_4
+  - first:
+      213: 7171451161702520824
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_5
+  - first:
+      213: -844155155994737865
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_6
+  - first:
+      213: -3290593575544060584
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_7
+  - first:
+      213: 3410191644214261642
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_8
+  - first:
+      213: 105455925919916419
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_9
+  - first:
+      213: -7986611529133239962
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_10
+  - first:
+      213: -3471744838126727531
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_11
+  - first:
+      213: -6437189482364950451
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_12
+  - first:
+      213: -2510549847868844711
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_13
+  - first:
+      213: 7768561423041718420
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_14
+  - first:
+      213: 5619887185054555051
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_15
+  - first:
+      213: 8734495210994285771
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_16
+  - first:
+      213: 9095185085545579934
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_17
+  - first:
+      213: -6522893790386693522
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_18
+  - first:
+      213: 8749607217552508776
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_19
+  - first:
+      213: 1007142241554401671
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_20
+  - first:
+      213: 60579065076734103
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_21
+  - first:
+      213: -8753348380851981886
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_22
+  - first:
+      213: 6504624995962684590
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_23
+  - first:
+      213: 6035014245613576035
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_24
+  - first:
+      213: -6475676278439952020
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_25
+  - first:
+      213: 6427971110337895466
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_26
+  - first:
+      213: 7433488250678438766
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_27
+  - first:
+      213: 9171770411795503540
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_28
+  - first:
+      213: 2240985171124729502
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_29
+  - first:
+      213: -9017430579414461337
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_30
+  - first:
+      213: 8346268377771160907
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_31
+  - first:
+      213: 3014412464996781545
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_32
+  - first:
+      213: -3934829172860493760
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_33
+  - first:
+      213: -9020765553603695993
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_34
+  - first:
+      213: -9170594491740577912
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_35
+  - first:
+      213: -7074318947818418077
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_36
+  - first:
+      213: 6007205407196664505
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_37
+  - first:
+      213: -7468479643366399381
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_38
+  - first:
+      213: -2931665006871063552
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_39
+  - first:
+      213: -7999780714722798533
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_40
+  - first:
+      213: 8224323348546981760
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_41
+  - first:
+      213: 8679643142776588486
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_42
+  - first:
+      213: -4626853166180095824
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_43
+  - first:
+      213: -2114006027967054411
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_44
+  - first:
+      213: 6493449411590390175
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_45
+  - first:
+      213: -7955019194088602748
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_46
+  - first:
+      213: 4615615625684234672
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_47
+  - first:
+      213: 7198479968457065518
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_48
+  - first:
+      213: -3801806394908057784
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_49
+  - first:
+      213: -8400470788974920560
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_50
+  - first:
+      213: 2684123003373720610
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_51
+  - first:
+      213: -3738931280627418980
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_52
+  - first:
+      213: 1150095649372276106
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_53
+  - first:
+      213: 4156586164826706071
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_54
+  - first:
+      213: -6635462339345368157
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_55
+  - first:
+      213: -4366849634592805384
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_56
+  - first:
+      213: -3148339113245120339
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_57
+  - first:
+      213: -6641176521760233642
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_58
+  - first:
+      213: -2483403148784558134
+    second: Desert-2D-Tileset-Pixel-Art3-removebg-preview_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f3b482c5432fa0800000000000000
+      internalID: -5826736791134930766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927c49ed4c1ff2e0800000000000000
+      internalID: -2089920581124459886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbba62951be62d80800000000000000
+      internalID: -8275668787363398719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9a02b6936aebc0800000000000000
+      internalID: -3753077840576603097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 336
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d44521a4e728a0800000000000000
+      internalID: -6329839370479807410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75759e5dc168360800000000000000
+      internalID: 7171451161702520824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 358
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338e9fab55f844f0800000000000000
+      internalID: -844155155994737865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855838dc3967552d0800000000000000
+      internalID: -3290593575544060584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 358
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8775618b3f635f20800000000000000
+      internalID: 3410191644214261642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381aaeb1b97a67100800000000000000
+      internalID: 105455925919916419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66159fe012bd92190800000000000000
+      internalID: -7986611529133239962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e09acb672e1dfc0800000000000000
+      internalID: -3471744838126727531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 275
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a1cf75428aa6a0800000000000000
+      internalID: -6437189482364950451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955dddef63cb82dd0800000000000000
+      internalID: -2510549847868844711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 274
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498643464797fcb60800000000000000
+      internalID: 7768561423041718420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab52fe8e99ddfd40800000000000000
+      internalID: 5619887185054555051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3aa7fd19273970800000000000000
+      internalID: 8734495210994285771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 275
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95006e95a6983e70800000000000000
+      internalID: 9095185085545579934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a566c48a60a75a0800000000000000
+      internalID: -6522893790386693522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 275
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867496e2869dc6970800000000000000
+      internalID: 8749607217552508776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 214
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789042a58861afd00800000000000000
+      internalID: 1007142241554401671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79859b6b65837d000800000000000000
+      internalID: 60579065076734103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 214
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b31c560cd58680800000000000000
+      internalID: -8753348380851981886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48b7988f1154a50800000000000000
+      internalID: 6504624995962684590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 214
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f18344b7da0c350800000000000000
+      internalID: 6035014245613576035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61c92ffbb6c126a0800000000000000
+      internalID: -6475676278439952020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 214
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd9220badb43950800000000000000
+      internalID: 6427971110337895466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 214
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b6abffd2e092760800000000000000
+      internalID: 7433488250678438766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9528c689ca84f70800000000000000
+      internalID: 9171770411795503540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 214
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96becfc324991f10800000000000000
+      internalID: 2240985171124729502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76491471aa6abd280800000000000000
+      internalID: -9017430579414461337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4530218ed6e3d370800000000000000
+      internalID: 8346268377771160907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed84a67a2855d920800000000000000
+      internalID: 3014412464996781545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406ec307bda469c0800000000000000
+      internalID: -3934829172860493760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a2f57e58dcfc280800000000000000
+      internalID: -9020765553603695993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f16acc5e08bb080800000000000000
+      internalID: -9170594491740577912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d777f568f2dd90800000000000000
+      internalID: -7074318947818418077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 153
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b253c48d71ed5350800000000000000
+      internalID: 6007205407196664505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 174
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e8e48551aa5890800000000000000
+      internalID: -7468479643366399381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 153
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d1097532a057d0800000000000000
+      internalID: -2931665006871063552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 92
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345de913d11bf090800000000000000
+      internalID: -7999780714722798533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 92
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f081cd28aa22270800000000000000
+      internalID: 8224323348546981760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 92
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c88a5e9379447870800000000000000
+      internalID: 8679643142776588486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a1f93f8d1acfb0800000000000000
+      internalID: -4626853166180095824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3df1d7ba89a2e0800000000000000
+      internalID: -2114006027967054411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9180d806dd5d1a50800000000000000
+      internalID: 6493449411590390175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 91
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834fe2c0381a9190800000000000000
+      internalID: -7955019194088602748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 91
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b6acf4f5fd0040800000000000000
+      internalID: 4615615625684234672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 113
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2406a2646326e360800000000000000
+      internalID: 7198479968457065518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 92
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f52b60a354d3bc0800000000000000
+      internalID: -3801806394908057784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cba1533588b6b80800000000000000
+      internalID: -8400470788974920560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2249b8586abef3520800000000000000
+      internalID: 2684123003373720610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c983b9a5fc5ac1cc0800000000000000
+      internalID: -3738931280627418980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858e8e46e5f5ff00800000000000000
+      internalID: 1150095649372276106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909cc828192fa930800000000000000
+      internalID: 4156586164826706071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab36d6982a1ae3a0800000000000000
+      internalID: -6635462339345368157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 30
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2d86d465d563c0800000000000000
+      internalID: -4366849634592805384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da86e82d14ade44d0800000000000000
+      internalID: -3148339113245120339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 52
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65721d1d32dc5d3a0800000000000000
+      internalID: -6641176521760233642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-2D-Tileset-Pixel-Art3-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 30
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1c9a6efd298dd0800000000000000
+      internalID: -2483403148784558134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

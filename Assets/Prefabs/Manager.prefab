@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5614429566080309068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5614429566080309075}
+  m_Layer: 0
+  m_Name: RespawPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5614429566080309075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614429566080309068}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.35891628, y: -1.7449794, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5614429567081780811}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5614429567081780800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5614429567081780811}
+  - component: {fileID: 5614429567081780804}
+  - component: {fileID: 5614429567081780805}
+  - component: {fileID: 5614429567081780807}
+  - component: {fileID: 3704719214881803577}
+  m_Layer: 0
+  m_Name: Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5614429567081780811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614429567081780800}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.5510836, y: 0.5249793, z: -59.48508}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5614429566080309075}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5614429567081780804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614429567081780800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36a733eb8e990bd4c9651a77f1eed324, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current_level: 1
+  current_highscore: 0
+  savename: CP_01
+  cursorArrow: {fileID: 2800000, guid: 43ab4e93c15278949beb92e37653ac64, type: 3}
+--- !u!114 &5614429567081780805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614429567081780800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb8ab4bc0616694cbccc5d5b8cec6ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Particle_explosion: {fileID: 3306831275308714412, guid: 37cdf364f5da27f4c964795c7e50a5b8, type: 3}
+--- !u!114 &5614429567081780807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614429567081780800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4965477e76b5c4cace4a8bc5823c1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SFX:
+  - clip: {fileID: 8300000, guid: b43d102aac6b145468dcaa94a5cccae1, type: 3}
+    name: ButtonClick
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 80e397195ea2940b69ee7bdbded856a5, type: 3}
+    name: Dash
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 0a9177415caff4fc8ace0cae0ae19b20, type: 3}
+    name: Finish
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: f32c95c96d480422ebf7072d3b788cff, type: 3}
+    name: Collect
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: a4cc3aa4970ba4469b76c20bb163371f, type: 3}
+    name: Bullet
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 84e427d6b66ab4066b6a4dcd0ce819ee, type: 3}
+    name: FastFall
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 7c27a13555c6947eab6aca916a0f03ed, type: 3}
+    name: Jump
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 7b07aee220488467b9af20a390119eeb, type: 3}
+    name: Death
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  Music:
+  - clip: {fileID: 8300000, guid: abd545171fd2e554682e3eee87b08ee9, type: 3}
+    name: MainMenu
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: aeb0ccded6132fb4286e2a828e490949, type: 3}
+    name: MainMenu_2
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 3aa4429ff3223a2418e5b416e5513274, type: 3}
+    name: Level
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  container_names:
+  - SFX
+  - Music
+  isFirstTime: 0
+--- !u!114 &3704719214881803577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5614429567081780800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427423aaf963c2d469e6f4253559b1ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
