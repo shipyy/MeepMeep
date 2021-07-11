@@ -1,5 +1,5 @@
 # MeepMeep
- Unity Game Developed as  University Project
+ Unity Game Developed as an University Project
 
 # Play
 If you wish to play the game go to https://drive.google.com/file/d/1UbPRD92z-wyBNxp_Hq4vMr7l4XkLQt8_/view?usp=sharing and run the .exe file
