@@ -1,6 +1,6 @@
 # MeepMeep
 
-![](home_meepmeep.png)
+![](meepmeep.png)
 
  Unity Game Developed as an University Project
 
